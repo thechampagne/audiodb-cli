@@ -1,0 +1,3 @@
+[submodule "lib/audiodb-cgo"]
+	path = lib/audiodb-cgo
+	url = https://github.com/thechampagne/audiodb-cgo
